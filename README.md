@@ -2,9 +2,5 @@
 Examples (Collected) for Arduino SPWM and Pure Sine Wave Generation
 These examples are tested on Proteus simulator. To get a minimum inverter facilities from this practice we have added a mosfet driver part and a transformer as well.
 
-![ArduinoSineWave_Basic_1](https://user-images.githubusercontent.com/78910261/229150976-615be20b-bce9-49cc-b84d-f4405115595d.png)
 
-
-
-https://github.com/gmostofabd/Arduino-SPWM-and-Pure-Sine-Wave/blob/main/AT328_SineWave_Basic/ArduinoSineWave_Basic_1.png
-
+![ArduinoSineWave_Basic_2](https://user-images.githubusercontent.com/78910261/229164022-e44b671a-5acf-49e9-abee-fc0a197551d9.png)
